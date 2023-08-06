@@ -1,0 +1,83 @@
+body {
+    min-height: 2550px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.jumbotron {
+    padding-left: 3rem;
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+    background-image: url("img/coding.jpg");
+}
+
+.display-4 {
+    color: rgb(151, 151, 151);
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.lead {
+    color: rgb(151, 151, 151);
+}
+
+#about_me {
+    padding-top: 5rem;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#about_me_picture {
+    padding-top: 2rem;
+}
+
+#about_me_text {
+    padding-top: 2rem;
+}
+
+#colomn .col-md-4.mb-3 {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    background-color: darkgrey;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.6);
+}
+
+#colomn h3 {
+    text-align: center;
+}
+
+#project {
+    background-color: #bbbbbb;
+    padding-bottom: 3rem;
+}
+
+#project h2 {
+    padding-top: 5rem;
+    font-size: 90px;
+}
+
+#project .col-md-4.mb-3 {
+    margin-top: 3rem;
+}
+
+footer {
+    background-color: rgb(58, 58, 58);
+    padding-bottom: 2rem;
+} 
+
+footer h1 {
+    padding-left: 3rem;
+    padding-top: 2rem;
+    color:rgb(211, 211, 211);
+}
+
+footer p {
+    padding-left: 3rem;
+    padding-top: 1rem;
+    font-size: 20px;
+    color: rgb(211, 211, 211);
+}
